@@ -33,7 +33,7 @@
 ### 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/arunbbhat/"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Bhat-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:arun.b.bhat@gmail.com"><img src="https://img.shields.io/badge/Gmail-arunherga%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:arun.b.bhat@gmail.com"><img src="https://img.shields.io/badge/Gmail-arun.b.bhat%40gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
