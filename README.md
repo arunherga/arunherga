@@ -1,41 +1,52 @@
-## Hi there 👋 I'm Arun Bhat
+<h1 align="center">Hi there 👋, I'm Arun Bhat</h1>
+<p align="center">
+  <em>DevOps Engineer | Platform Builder | Cloud & Kubernetes Enthusiast</em>
+</p>
 
-I’m a DevOps Engineer and Platform Enthusiast with a strong focus on automation, cloud-native technologies, and distributed systems. I love building tools and infrastructure that empower development teams and improve system reliability.
-
----
-
-### 🚀 About Me
-- 💻 Currently working on: **Kafka autoscaling operator in Go**
-- ☁️ Experience with: **Python**,**AWS**, **Kubernetes**, **Kafka**, **Terraform**, **GitHub Actions**
-- 🛠️ Building custom solutions for **monitoring, CI/CD**, and **infrastructure automation**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+resilient+platforms+with+Kubernetes+%7C+Kafka+%7C+Terraform;DevOps+Engineer+with+a+passion+for+open+source+and+automation" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📚 Currently Learning
-- Golang for writing robust CLI tools and Kubernetes controllers
-- Internals of Kubernetes Operators
-- Advanced Kafka lag monitoring and real-time metrics export
+### 🧑‍💻 About Me
+- 🔭 Currently working on a **Kafka autoscaler operator in Go**
+- ☁️ Cloud-native developer: **AWS**, **GCP**, **Kubernetes**, **Kafka**
+- 🛠 Building automation with **Terraform**, **GitHub Actions**
+- 🔍 Curious about distributed systems and platform reliability
+- 📍 Based in **Udupi, India**
 
 ---
 
-### 🤝 Let's Collaborate
-I’m open to contributing to:
-- Cloud-native projects
-- Internal developer platforms
-- Kafka tools and observability plugins
-- Anything that bridges infrastructure and developer experience
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/arunherga)
-- ✉️ Email: arunherga [at] gmail [dot] com
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arunherga&show_icons=true&theme=github_dark" alt="Arun's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arunherga&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I’m from the serene coastal town of **Udupi, India**, and I’m passionate about **building reliable systems from the ground up** — whether it’s writing my own web server or designing fault-tolerant Kafka pipelines.
+### 📫 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/arunherga"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Bhat-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:arunherga@gmail.com"><img src="https://img.shields.io/badge/Gmail-arunherga%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+</p>
 
 ---
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+<p align="center"><em>“Simplicity is the soul of efficiency.” – Austin Freeman</em></p>
