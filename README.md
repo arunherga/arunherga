@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Arun Bhat</h1>
 <p align="center">
-  <em>DevOps Engineer | Platform Builder | Cloud & Kubernetes Enthusiast</em>
+  <em> DevOps Engineer | Platform Builder | Cloud & Kubernetes Enthusiast</em>
 </p>
 
 <p align="center">
@@ -29,22 +29,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunherga&show_icons=true&theme=github_dark" alt="Arun's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arunherga&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/arunherga"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Bhat-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:arunherga@gmail.com"><img src="https://img.shields.io/badge/Gmail-arunherga%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/arunbbhat/"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Bhat-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:arun.b.bhat@gmail.com"><img src="https://img.shields.io/badge/Gmail-arunherga%40gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
