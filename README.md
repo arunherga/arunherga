@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Arun Bhat</h1>
-<p align="center">
-  <em> DevOps Engineer | Platform Builder | Cloud & Kubernetes Enthusiast</em>
-</p>
+
+<p align="center"><em>DevOps Engineer | Platform Builder | Cloud & Kubernetes Enthusiast</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=mBuilding+resilient+platforms+with+Kubernetes+%7C+Kafka+%7C+Terraform;DevOps+Engineer+with+a+passion+for+open+source+and+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+resilient+platforms+with+Kubernetes;Kafka+%7C+Terraform+%7C+GitHub+Actions+%7C+Golang" alt="Typing animation" />
 </p>
+
+---
+
 
 ---
 
