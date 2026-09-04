@@ -1,86 +1,82 @@
-<h1 align="center">Hi there 👋, I'm Arun Bhat</h1>
+### Hi there 👋
 
-<p align="center"><em>DevOps Engineer · Data Platform Builder · Cloud &amp; Kubernetes</em></p>
+I'm **Arun Bhat**, a DevOps engineer in Udupi, India. I build and operate data
+platforms — mostly **Kafka**, **Kubernetes**, and **Terraform** — and I write
+the tooling that makes them easier to run. Right now I'm working on a **Kafka
+autoscaler operator in Go**.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Building+resilient+platforms+with+Kubernetes;Kafka+%7C+Terraform+%7C+GitHub+Actions+%7C+Golang" alt="Building resilient platforms with Kubernetes — Kafka, Terraform, GitHub Actions, Golang" />
-</p>
+Ask me about Kafka internals, consumer lag, Schema Registry, or writing your own
+Terraform provider.
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/arunbbhat/"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Bhat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: Arun Bhat" /></a>
   <a href="mailto:arun.b.bhat@gmail.com"><img src="https://img.shields.io/badge/Email-arun.b.bhat%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: arun.b.bhat@gmail.com" /></a>
-  <a href="https://github.com/arunherga?tab=repositories"><img src="https://img.shields.io/badge/Repos-arunherga-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🔧 Things I've built
 
-- 🔭 Currently building a **Kafka autoscaler operator in Go**
-- ☁️ Cloud-native engineer working across **AWS**, **GCP**, **Kubernetes**, and **Kafka**
-- 🛠 I automate the boring parts with **Terraform** and **GitHub Actions**
-- 🔍 Interested in distributed systems, streaming data, and platform reliability
-- 💬 Ask me about **Kafka internals, consumer lag, Schema Registry, or Terraform providers**
-- 📍 Based in **Udupi, India**
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[kgrep](https://github.com/arunherga/kgrep)** | A CLI for looking inside a Kafka topic — search records, export to CSV, tail messages live, and inspect topics with per-consumer-group lag. Decodes plain text, JSON, and Schema Registry Avro / JSON Schema / Protobuf. | Go, Kafka |
-| **[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency)** | Kafka latency profiler: consumes for a fixed window and reports the end-to-end latency distribution, overall and per partition, to a topic or a CSV. | Python, Kafka |
-| **[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock)** | Real `terraform plan / apply / destroy` against a local, disposable stand-in for the Confluent Cloud APIs, driven by a custom Go provider — practise the full lifecycle with zero cloud spend. | Go, Terraform |
-| **[docker-image-push](https://github.com/arunherga/docker-image-push)** | GitHub Actions pipeline that publishes every new commit as a versioned Docker image. | GitHub Actions, Docker |
+- **[kgrep](https://github.com/arunherga/kgrep)** — a CLI for looking inside a
+  Kafka topic. Search records, export to CSV, tail messages live, and inspect
+  topics with per-consumer-group lag. Decodes plain text, JSON, and Schema
+  Registry Avro / JSON Schema / Protobuf. _Go_
+- **[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency)** —
+  a latency profiler that consumes for a fixed window and reports the
+  end-to-end distribution, overall and per partition, to a topic or a CSV.
+  _Python_
+- **[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock)** —
+  real `terraform plan / apply / destroy` against a disposable local stand-in
+  for the Confluent Cloud APIs, driven by a custom provider. Practise the whole
+  lifecycle with zero cloud spend. _Go, Terraform_
+- **[docker-image-push](https://github.com/arunherga/docker-image-push)** — a
+  GitHub Actions pipeline that publishes every new commit as a versioned Docker
+  image. _GitHub Actions_
 
 ---
 
-### 🧰 Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Languages**
+### 📦 Recent releases
+<!-- recent_releases starts -->
+[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 6 days ago
+<!-- recent_releases ends -->
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-**Cloud &amp; Infrastructure**
+### 🛠 Recently active
+<!-- recently_active starts -->
+[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - today
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - today
 
-**Data &amp; Streaming**
+[kgrep](https://github.com/arunherga/kgrep) - Go - 6 days ago
 
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Confluent-0074A2?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Confluent Schema Registry" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-</p>
+[hello-world-app](https://github.com/arunherga/hello-world-app) - Dockerfile - 1 year ago
 
-**CI/CD &amp; Tooling**
+[docker-image-push](https://github.com/arunherga/docker-image-push) - 1 year ago
+<!-- recently_active ends -->
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
+### 🧰 Day to day
 
-<p>
-  <a href="https://www.linkedin.com/in/arunbbhat/"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Bhat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: Arun Bhat" /></a>
-  <a href="mailto:arun.b.bhat@gmail.com"><img src="https://img.shields.io/badge/Gmail-arun.b.bhat%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: arun.b.bhat@gmail.com" /></a>
-</p>
+| | |
+| --- | --- |
+| **Languages** | Go · Python · Bash |
+| **Platform** | Kubernetes · Docker · Terraform · Linux |
+| **Streaming** | Apache Kafka · Confluent Schema Registry · Airflow |
+| **Cloud & CI** | AWS · GCP · GitHub Actions |
 
 ---
 
-<p align="center"><em>“Simplicity is the soul of efficiency.” — Austin Freeman</em></p>
+<sub>The two sections above are regenerated daily by
+<a href="https://github.com/arunherga/arunherga/actions">a GitHub Action</a> —
+<a href="https://github.com/arunherga/arunherga/blob/main/scripts/build_readme.py">here's how</a>.</sub>
