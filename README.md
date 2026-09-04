@@ -68,9 +68,9 @@ Terraform provider.
 
 ### 📜 Certifications
 
-- **[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/91a94e2d-a6af-4ea6-8b78-d5bf4d597584)** — The Linux Foundation · Jun 2025 – Jun 2027
-- **[Data Streaming Engineer Foundations](https://certificates.confluent.io/b69ad703-8c97-432f-ab12-7f4ceb86690a)** — Confluent · May 2025 – May 2027
-- **[Confluent Certified Developer for Apache Kafka](https://www.credential.net/dad704fd-6219-467a-afec-2a17214ff24c)** (CCDAK) — Confluent · Dec 2023 – Dec 2025 _(expired)_
+- **[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/91a94e2d-a6af-4ea6-8b78-d5bf4d597584)** — The Linux Foundation
+- **[Data Streaming Engineer Foundations](https://certificates.confluent.io/b69ad703-8c97-432f-ab12-7f4ceb86690a)** — Confluent
+- **[Confluent Certified Developer for Apache Kafka](https://www.credential.net/dad704fd-6219-467a-afec-2a17214ff24c)** (CCDAK) — Confluent
 
 ---
 
