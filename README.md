@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm **Arun Bhat**, a DevOps engineer in Udupi, India. I build and operate data
-platforms — mostly **Kafka**, **Kubernetes**, and **Terraform** — and I write
-the tooling that makes them easier to run. Right now I'm working on a **Kafka
-autoscaler operator in Go**.
+I'm **Arun Bhat**, a data platform engineer in Udupi, India. I build and run the
+streaming infrastructure that data products sit on — mostly **Kafka**,
+**Kubernetes**, and **Terraform** — and I write the tooling that makes those
+platforms easier to operate. Right now I'm building a **Kafka autoscaler
+operator in Go**.
 
 Ask me about Kafka internals, consumer lag, Schema Registry, or writing your own
 Terraform provider.
