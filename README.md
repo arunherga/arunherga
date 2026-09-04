@@ -63,14 +63,30 @@ Terraform provider.
 
 ---
 
-### 🧰 Day to day
+### 🧰 Skills
 
-| | |
-| --- | --- |
-| **Languages** | Go · Python · Bash |
-| **Platform** | Kubernetes · Docker · Terraform · Linux |
-| **Streaming** | Apache Kafka · Confluent Schema Registry · Airflow |
-| **Cloud & CI** | AWS · GCP · GitHub Actions |
+<table>
+  <tr>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" height="42" alt="Python" title="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original.svg" height="42" alt="Go" title="Go" /><br /><sub><b>Go</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.simpleicons.org/gnubash/4EAA25/4EAA25" height="42" alt="Bash / Shell" title="Bash / Shell" /><br /><sub><b>Bash / Shell</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.simpleicons.org/linux/1A1A1A/FFFFFF" height="42" alt="Linux" title="Linux" /><br /><sub><b>Linux</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" /><br /><sub><b>Docker</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" height="42" alt="Docker Compose" title="Docker Compose" /><br /><sub><b>Docker Compose</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-original.svg" height="42" alt="Kubernetes" title="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/terraform/terraform-original.svg" height="42" alt="Terraform" title="Terraform" /><br /><sub><b>Terraform</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" title="AWS" /><br /><sub><b>AWS</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg" height="42" alt="Azure" title="Azure" /><br /><sub><b>Azure</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="105" height="80"><img src="https://cdn.simpleicons.org/apachekafka/231F20/FFFFFF" height="42" alt="Kafka" title="Kafka" /><br /><sub><b>Kafka</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.simpleicons.org/temporal/444444/DDDDDD" height="42" alt="Temporal" title="Temporal" /><br /><sub><b>Temporal</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="105" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="42" alt="MS SQL Server" title="MS SQL Server" /><br /><sub><b>MS SQL Server</b></sub></td>
+  </tr>
+</table>
 
 ---
 
