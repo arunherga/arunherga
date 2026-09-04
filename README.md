@@ -17,21 +17,10 @@ Terraform provider.
 
 ### 🔧 Things I've built
 
-- **[kgrep](https://github.com/arunherga/kgrep)** — a CLI for looking inside a
-  Kafka topic. Search records, export to CSV, tail messages live, and inspect
-  topics with per-consumer-group lag. Decodes plain text, JSON, and Schema
-  Registry Avro / JSON Schema / Protobuf. _Go_
-- **[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency)** —
-  a latency profiler that consumes for a fixed window and reports the
-  end-to-end distribution, overall and per partition, to a topic or a CSV.
-  _Python_
-- **[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock)** —
-  real `terraform plan / apply / destroy` against a disposable local stand-in
-  for the Confluent Cloud APIs, driven by a custom provider. Practise the whole
-  lifecycle with zero cloud spend. _Go, Terraform_
-- **[docker-image-push](https://github.com/arunherga/docker-image-push)** — a
-  GitHub Actions pipeline that publishes every new commit as a versioned Docker
-  image. _GitHub Actions_
+- **[kgrep](https://github.com/arunherga/kgrep)** — Go
+- **[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency)** — Python
+- **[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock)** — Go, Terraform
+- **[docker-image-push](https://github.com/arunherga/docker-image-push)** — GitHub Actions
 
 ---
 
