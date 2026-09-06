@@ -38,11 +38,11 @@ Terraform provider.
 
 ### 🛠 Recently active
 <!-- recently_active starts -->
-[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - yesterday
+[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 days ago
 
-[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - yesterday
+[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 2 days ago
 
-[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - yesterday
+[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - 2 days ago
 
 [kgrep](https://github.com/arunherga/kgrep) - Go - 1 week ago
 
