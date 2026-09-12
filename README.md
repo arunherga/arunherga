@@ -44,7 +44,7 @@ Terraform provider.
 
 [confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - 1 week ago
 
-[kgrep](https://github.com/arunherga/kgrep) - Go - 1 week ago
+[kgrep](https://github.com/arunherga/kgrep) - Go - 2 weeks ago
 
 [hello-world-app](https://github.com/arunherga/hello-world-app) - Dockerfile - 1 year ago
 <!-- recently_active ends -->
