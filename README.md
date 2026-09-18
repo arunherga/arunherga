@@ -30,7 +30,7 @@ Terraform provider.
 
 ### 📦 Recent releases
 <!-- recent_releases starts -->
-[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 2 weeks ago
+[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 3 weeks ago
 <!-- recent_releases ends -->
 
 </td>
@@ -38,11 +38,11 @@ Terraform provider.
 
 ### 🛠 Recently active
 <!-- recently_active starts -->
-[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 1 week ago
+[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 weeks ago
 
-[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 1 week ago
+[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 2 weeks ago
 
-[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - 1 week ago
+[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - 2 weeks ago
 
 [kgrep](https://github.com/arunherga/kgrep) - Go - 2 weeks ago
 
