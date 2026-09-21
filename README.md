@@ -38,9 +38,9 @@ Terraform provider.
 
 ### 🛠 Recently active
 <!-- recently_active starts -->
-[plastic-recycling-intelligence](https://github.com/arunherga/plastic-recycling-intelligence) - Python - today
+[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - today
 
-[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - yesterday
+[plastic-recycling-intelligence](https://github.com/arunherga/plastic-recycling-intelligence) - Python - today
 
 [docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 weeks ago
 
