@@ -38,6 +38,8 @@ Terraform provider.
 
 ### 🛠 Recently active
 <!-- recently_active starts -->
+[global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
+
 [plastic-recycling-intelligence](https://github.com/arunherga/plastic-recycling-intelligence) - Python - today
 
 [arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - today
@@ -45,8 +47,6 @@ Terraform provider.
 [docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 weeks ago
 
 [KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 2 weeks ago
-
-[confluent-terraform-mock](https://github.com/arunherga/confluent-terraform-mock) - Go - 2 weeks ago
 <!-- recently_active ends -->
 
 </td>
