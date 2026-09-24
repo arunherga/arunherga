@@ -38,11 +38,11 @@ Terraform provider.
 
 ### 🛠 Recently active
 <!-- recently_active starts -->
-[global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
-
 [plastic-recycling-intelligence](https://github.com/arunherga/plastic-recycling-intelligence) - Python - today
 
-[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - today
+[global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
+
+[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - yesterday
 
 [docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 weeks ago
 
