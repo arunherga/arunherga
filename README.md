@@ -30,7 +30,7 @@ Terraform provider.
 
 ### 📦 Recent releases
 <!-- recent_releases starts -->
-[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 3 weeks ago
+[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 4 weeks ago
 <!-- recent_releases ends -->
 
 </td>
@@ -40,13 +40,13 @@ Terraform provider.
 <!-- recently_active starts -->
 [plastic-recycling-intelligence](https://github.com/arunherga/plastic-recycling-intelligence) - Python - today
 
+[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - today
+
 [global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
 
-[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - yesterday
+[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 3 weeks ago
 
-[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 weeks ago
-
-[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 2 weeks ago
+[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 3 weeks ago
 <!-- recently_active ends -->
 
 </td>
