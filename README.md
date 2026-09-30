@@ -40,9 +40,9 @@ Terraform provider.
 <!-- recently_active starts -->
 [plastic-recycling-intelligence](https://github.com/arunherga/plastic-recycling-intelligence) - Python - today
 
-[global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
-
 [arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - today
+
+[global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
 
 [docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 3 weeks ago
 
