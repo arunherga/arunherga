@@ -42,7 +42,7 @@ Terraform provider.
 
 [global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
 
-[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - 2 days ago
+[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - 3 days ago
 
 [docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 1 month ago
 
