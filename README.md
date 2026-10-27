@@ -30,7 +30,7 @@ Terraform provider.
 
 ### 📦 Recent releases
 <!-- recent_releases starts -->
-[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 1 month ago
+[kgrep v4.0.0](https://github.com/arunherga/kgrep/releases/tag/v4.0.0) - 2 months ago
 <!-- recent_releases ends -->
 
 </td>
