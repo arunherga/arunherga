@@ -42,11 +42,11 @@ Terraform provider.
 
 [global-equity-intelligence](https://github.com/arunherga/global-equity-intelligence) - Python - today
 
-[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - 4 weeks ago
+[arunherga.github.io](https://github.com/arunherga/arunherga.github.io) - TypeScript - 1 month ago
 
-[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 1 month ago
+[docker-image-push](https://github.com/arunherga/docker-image-push) - Dockerfile - 2 months ago
 
-[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 1 month ago
+[KafkaEndToEndLatency](https://github.com/arunherga/KafkaEndToEndLatency) - Python - 2 months ago
 <!-- recently_active ends -->
 
 </td>
